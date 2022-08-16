@@ -1,0 +1,29 @@
+h1 {
+    color:red;
+}
+
+h2 {
+    color:purple;
+}
+
+h3 {
+    color:brown;
+}
+
+ul>li {
+    list-style-type:none;
+}
+
+.menu{
+    display: block;
+}
+
+.menu li{
+    display: inline;
+    margin: 10px;
+    position: relative;
+}
+
+img {
+    width:300px;
+}
